@@ -6,7 +6,7 @@ Summary:	A pure-python library for embedding CoSWID data
 Summary(pl.UTF-8):	Czysto pythonowa biblioteka do usadzania danych CoSWID
 Name:		python3-uswid
 Version:	0.5.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/uswid/
